@@ -39,7 +39,7 @@ PortoGeny is a beginner-friendly, web-based portfolio builder designed specifica
 3. Explore other pages inside `pages/` folder
 
 ```bash
-git clone https://github.com/Nafeesherin/portogeny.git
+git clone https://github.com/Nafeesherin/portogeny.git```
 
 **Future Plans**
 
