@@ -41,5 +41,15 @@ PortoGeny is a beginner-friendly, web-based portfolio builder designed specifica
 ```bash
 git clone https://github.com/Nafeesherin/portogeny.git
 
+**Future Plans**
 
+- User authentication system (with backend)
+
+- Save portfolio data in database (MongoDB)
+
+- Export portfolio as PDF
+
+- Admin panel for template management
+
+- Recruiter dashboard (Phase 2)
 
